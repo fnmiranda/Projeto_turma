@@ -6,19 +6,19 @@
   border-radius: 10px;
 }
 
+.cabecalho.navbar {
+  padding: 10px 10px;
+  gap: 15px;
+  /* background-color: rgb(125, 145, 132); */
+  border-radius: 10px;
+}
+
 .imagem_pelotao {
   float: left;
   width: 100px;
   height: 100px;
   border-radius: 30%;
   margin-right: 10px;
-}
-
-.cabecalho.navbar {
-  padding: 10px 10px;
-  gap: 20px;
-  /* background-color: rgb(125, 145, 132); */
-  border-radius: 10px;
 }
 
 body {
