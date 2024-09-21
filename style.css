@@ -1,0 +1,14 @@
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(132, 172, 136);
+  border-radius: 10px;
+}
+
+.cabecalho.navbar {
+  padding: 10px 10px;
+  gap: 20px;
+  background-color: rgb(148, 199, 168);
+  border-radius: 10px;
+}
