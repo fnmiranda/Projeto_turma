@@ -2,14 +2,22 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgb(132, 172, 136);
+  /* background-color: rgb(79, 102, 81); */
   border-radius: 10px;
+}
+
+.imagem_pelotao {
+  float: left;
+  width: 100px;
+  height: 100px;
+  border-radius: 30%;
+  margin-right: 10px;
 }
 
 .cabecalho.navbar {
   padding: 10px 10px;
   gap: 20px;
-  background-color: rgb(148, 199, 168);
+  /* background-color: rgb(125, 145, 132); */
   border-radius: 10px;
 }
 
