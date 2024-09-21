@@ -1,0 +1,13 @@
+body {
+  background-image: url("./imagens/background3.jpg");
+  background-size: contain;
+  color: white;
+}
+
+a:link {
+  color: darkgray;
+}
+
+a:visited, a:hover {
+  color: gray;
+}
