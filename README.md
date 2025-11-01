@@ -1,9 +1,8 @@
 🎓 Sistema de Gerenciamento de Turmas
 <div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20"/>
 </div>
 📖 Sobre o Projeto
 
@@ -28,16 +27,19 @@ bash
 git clone https://github.com/fnmiranda/Projeto_turma.git
 
 # Navegue até a pasta
-cd Projeto_turma
-
+```
+    cd Projeto_turma
+```
 # Abra o arquivo index.html no navegador
 
 Método 2: Usando Live Server (Recomendado)
-bash
-
+```
+    bash
+```
 # Se você tem o VS Code instalado:
-code Projeto_turma
-
+```
+    code Projeto_turma
+```
 # Instale a extensão Live Server e clique em "Go Live"
 
 🛠️ Tecnologias Utilizadas
